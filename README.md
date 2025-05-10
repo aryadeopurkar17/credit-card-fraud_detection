@@ -27,22 +27,6 @@ To accurately classify fraudulent vs. legitimate transactions using a machine le
 - **Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - The dataset contains 284,807 transactions, of which 492 are frauds (heavily imbalanced).
 
-## 🛠️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
-   
-2.**Create and activate virtual environment**
-
-bash
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-3.**Install dependencies**
-bash
-pip install -r requirements.txt
 
 📁 Project Structure
 bash
