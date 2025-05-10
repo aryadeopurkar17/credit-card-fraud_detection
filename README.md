@@ -21,8 +21,6 @@ To accurately classify fraudulent vs. legitimate transactions using a machine le
 - Pandas, NumPy
 - scikit-learn
 - Matplotlib, Seaborn
-- XGBoost (optional)
-- Jupyter Notebook
 
 ## 📊 Dataset
 
@@ -57,6 +55,7 @@ credit-card-fraud-detection/
 ├── requirements.txt
 ├── README.md
 └── fraud_detection.ipynb      # Main notebook
+
 📊 Model Evaluation Metrics
 Precision
 
